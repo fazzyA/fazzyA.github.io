@@ -1,2 +1,2 @@
 # fazzyA.github.io
-Little about Faiza
+## I am full stack developer
